@@ -1,1 +1,1 @@
-<img src="https://dui-sphere-teachers-advised.trycloudflare.com/api/cards/juchan.svg?v=6" />
+<img src="https://dui-sphere-teachers-advised.trycloudflare.com/api/cards/juchan.svg?v=8" />
